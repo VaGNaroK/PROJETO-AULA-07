@@ -33,6 +33,4 @@ jobs:
         run: |
           echo Adicionar outras ações para construir,
           echo teste e implantar seu projeto.
-```
-
-Se quiser mais ajustes ou adicionar etapas específicas, só pedir!
+          
